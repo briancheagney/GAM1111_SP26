@@ -72,3 +72,31 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/SmithC/Maps/SmithC_SandBox_Map.umap
+Content/SmithC/Belnder_Models/Mat_Smith_Pages.uasset
+Content/SmithC/Belnder_Models/MAt_Smith_Cover.uasset
+Content/SmithC/Belnder_Models/FirstBook.uasset
+Content/LylesC/mesh/table/Lyles_table1_clyles_tabletop_OcclusionRoughnessMetallic.uasset
+Content/LylesC/mesh/table/Lyles_table1_clyles_tabletop_Normal.uasset
+Content/LylesC/mesh/table/Lyles_table1_clyles_tabletop_BaseColor.uasset
+Content/LylesC/mesh/table/Lyles_table1_clyles_tableleg_mat_OcclusionRoughnessMetallic.uasset
+Content/LylesC/mesh/table/Lyles_table1_clyles_tableleg_mat_Normal.uasset
+Content/LylesC/mesh/table/Lyles_table1_clyles_tableleg_mat_BaseColor.uasset
+Content/LylesC/mesh/table/Lyles_table1.uasset
+Content/LylesC/mesh/table/clyles_tabletop.uasset
+Content/LylesC/mesh/table/clyles_tableleg_mat.uasset
+Content/LylesC/mesh/table/clyles_tab_wood_mat.uasset
+Content/LylesC/mesh/table/clyles_tab_metal_mat.uasset
+Content/HeagneyB/Maps/Heagney_SandBox_Map.umap
+Content/HeagneyB/Blueprints/BP_HeagneyBook.uasset
+Content/BroadwaterC/Meshes/TableTop.uasset
+Content/BroadwaterC/Meshes/TableLegs.uasset
+Content/BroadwaterC/Meshes/CB_Table03.uasset
+Content/BroadwaterC/Maps/Broadwater_SandBox_Map.umap
+Content/BroadwaterC/Blueprints/BP_BroadwaterBook.uasset
+Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/PD/KXEC073LJY98O39AO2371H.uasset
+Content/SmithC/Maps/SmithC_SandBox_Map.umap
+Content/HeagneyB/Maps/Heagney_SandBox_Map.umap
+Content/HeagneyB/Blueprints/BP_HeagneyBook.uasset
+Content/BroadwaterC/Maps/Broadwater_SandBox_Map.umap
+Content/BroadwaterC/Blueprints/BP_BroadwaterBook.uasset
